@@ -1,1 +1,1 @@
-# Short-Projevt
+# Mini-Project
